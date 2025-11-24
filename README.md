@@ -1,1 +1,1 @@
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. 
+HTML chapter project creating building a basic recipe website. It consist of a index page with links to a few recipes. The demostrated stills include the basic of Git, linking various pages to a central index page, inserting images to a page, and structuring a basic website using HTML.
