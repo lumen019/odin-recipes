@@ -24,40 +24,17 @@ body {
     text-decoration: underline overline rgb(171, 212, 23);
 }
 
-.recipe-container1 {
+.recipe-container {
     margin-bottom: 100px;
     background-color: rgb(0, 0, 0);
     padding-bottom: 16px;
 }
 
-.recipe-container1 img{
+.recipe-container img {
    height: auto;
    width: 100%;
-   overflow: hidden;
 }
 
-.recipe-container2 {
-    margin-bottom: 100px;
-    background-color: rgb(0, 0, 0);
-    padding-bottom: 16px;
-}
-
-.recipe-container2 img{
-   height: auto;
-   width: 100%;
-   overflow: hidden;
-}
-
-.recipe-container3 {
-    background-color: rgb(0, 0, 0); 
-    padding-bottom: 16px;
-}
-
-.recipe-container3 img{
-   height: auto;
-   width: 100%;
-   overflow: hidden;
-}
 
 button {
     background-color: black;
@@ -68,17 +45,17 @@ button {
     font-size: 25px;
     font-weight: 900;
     font-family: monospace;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
-.text{
+.clickme{
     color: white;
     text-align: center;
     font-family: "Courier New";
 }
 
 .madeby {
-    padding-top: 8px 0;
+    padding: 8px 0;
     margin: 100px 0 8px 8px;
     font-weight: 800;
 }
