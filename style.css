@@ -16,7 +16,7 @@ body {
     background-color: black;
     color: rgb(171, 212, 23);
     text-align: center;
-    padding: 50px;
+    padding: 80px 60px;
     font-size: 65px;
     font-family:"Courier New";
     font-weight: bold;
@@ -25,9 +25,9 @@ body {
 }
 
 .recipe-container {
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     background-color: rgb(0, 0, 0);
-    padding-bottom: 16px;
+    padding-bottom: 12px;
 }
 
 .recipe-container img {
